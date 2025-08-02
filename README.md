@@ -23,8 +23,6 @@ Clean, minimal UI with beach-dark aesthetic
 
 📱 Mobile-responsive layout
 
-
-
 ---
 
 🧠 Technologies Used
@@ -35,8 +33,6 @@ Vite (for fast build)
 
 TailwindCSS + shadcn/ui
 Google Gemini API (via @google/generative-ai)
-
-
 
 ---
 
@@ -94,9 +90,7 @@ Endpoint used:
 https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent
 SDK:
 @google/generative-ai
-
-
-
+  
 ---
 
 💡 Future Improvements
@@ -112,14 +106,12 @@ Add character count for platform-specific limits
 📸 UI Preview
 
 > Add screenshots or a demo link here if available.
+https://github.com/Anagh7-jais/caption-generator-2/blob/51b948fbdf4b8bb9fb01089a25e1502d1440a01c/Screenshot%202025-08-02%20123833.png
 https://github.com/Anagh7-jais/caption-generator-2/blob/f58bd011987a25ea9cf73658f25584b3d2307256/Screenshot%202025-08-02%20022635.png
 
 
 Built By
 Anagh Jaiswal
-
-
-
 ---
 
 📜 License
