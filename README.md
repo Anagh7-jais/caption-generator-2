@@ -112,7 +112,7 @@ Add character count for platform-specific limits
 📸 UI Preview
 
 > Add screenshots or a demo link here if available.
-
+https://github.com/Anagh7-jais/caption-generator-2/blob/f58bd011987a25ea9cf73658f25584b3d2307256/Screenshot%202025-08-02%20022635.png
 
 
 Built By
